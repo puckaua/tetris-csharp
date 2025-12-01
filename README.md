@@ -14,10 +14,10 @@ Comandos:
   O jogo é finalizado quando as peças ocupam uma coluna inteira do tabuleiro, tocando o topo.
 
   # Como baixar
-  1 - Baixar a pasta compactada em Code > download zip
-  2 - Extrair o conteúdo da pasta compactada
-  3 - Abrir o Visual Studio e selecionar "abrir uma pasta local"
-  4 - Selecionar a pasta tetris-csharp-main
-  5 - Na parte superior central, selecione o item de inicialização tetris-csharp.csproj
+  1 - Baixar a pasta compactada em Code > download zip <br>
+  2 - Extrair o conteúdo da pasta compactada <br>
+  3 - Abrir o Visual Studio e selecionar "abrir uma pasta local" <br>
+  4 - Selecionar a pasta tetris-csharp-main <br>
+  5 - Na parte superior central, selecione o item de inicialização tetris-csharp.csproj <br>
   6 - Divirta-se!
 
