@@ -14,7 +14,7 @@ Comandos:
   O jogo é finalizado quando as peças ocupam uma coluna inteira do tabuleiro, tocando o topo.
 
   # Como baixar
-  (Necessário ter instalado .NET Framework v4.8. Caso não tenha, <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48">clique aqui para fazer o download</a>)
+  (Necessário ter instalado .NET Framework v4.8. Caso não tenha, <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48">clique aqui para fazer o download</a>) <br>
   1 - Vá na pasta installer e baixe o arquivo TetrisInstaller.exe; <br>
   2 - Execute o instalador que acabou de baixar e finalize a instalação; <br>
   3 - Um atalho será adicionado à sua área de trabalho, basta abri-lo para começar a jogar. <br>
